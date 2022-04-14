@@ -1,6 +1,6 @@
-# Zoracles Governance
+# Zora Labs Governance
 
-This is the frontend created for the governance of [Zoracles](https://zoracles.com).
+This is the frontend created for the governance of [Zora Labs](https://zoralabs.com).
 
 # Steps to run project locally
 
