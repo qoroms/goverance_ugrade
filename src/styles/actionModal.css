@@ -1,0 +1,9 @@
+#functionSelect {
+    background-color: lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#addressInfomation {
+    padding: 0.75rem;
+    background-color: lightgray;
+}
